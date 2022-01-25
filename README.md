@@ -2,6 +2,12 @@
 
 Plan Formación Permanente Profesorado Videoxogos
 
+## Requisitos
+
+- docker
+- docker-compose
+- make
+
 ## unity
 
 Creamos un directorio en nuestro directorio personal para los proyectos unity, el cual será mapeado en la ruta /opt/unity dentro del container:
