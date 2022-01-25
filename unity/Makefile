@@ -1,4 +1,4 @@
-PROJECT="pffp_vx_tools"
+PROJECT="pfpp_vx_tools"
 
 #Targets principales
 install: composeup
